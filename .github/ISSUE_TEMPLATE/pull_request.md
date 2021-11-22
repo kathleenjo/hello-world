@@ -2,7 +2,7 @@
 name: Pull request
 about: 'Request to pull code. '
 title: ''
-labels: ''
+labels: 'pull-request'
 assignees: ''
 
 ---
