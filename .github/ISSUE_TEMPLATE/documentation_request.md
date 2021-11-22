@@ -1,8 +1,8 @@
 ---
-name: Enhancement request
+name: Documentation request
 about: Suggest an enhancement for this project
-title: "[ENHANCEMENT]"
-labels: ''
+title: ''
+labels: 'documentation'
 assignees: ''
 
 ---
