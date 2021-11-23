@@ -1,7 +1,7 @@
 ---
 name: Documentation request
 about: Suggest documentation for this project
-title: "[DOC] Enter Title Here"
+title: "[DOC] Enter title here"
 labels: documentation
 assignees: ''
 
@@ -15,6 +15,9 @@ labels: documentation
 assignees: ''
 
 ---
+
+# Documentation Request
+Use this issue to request that documentation be updated or added for this project. 
 
 ## What would you like to be added?
 Provide an answer like, "Include format for date parameter."
